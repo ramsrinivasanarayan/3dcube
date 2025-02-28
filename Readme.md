@@ -1,8 +1,6 @@
 # 💖 I Love You 3D Cube Animation 🚀  
 *A rotating cube with a secret message, hover effects, and endless vibes – perfect for coders, lovers, and Gen Z chaos enthusiasts.*  
 
-![Live Preview - Cube Demo](https://3d-cube-dev.netlify.app/)  
-
 ---
 
 ## ✨ Features  
@@ -17,7 +15,7 @@
 ## 🛠️ Installation  
 1. Clone the repo:  
    ```bash  
-   git clone https://github.com/your-username/your-repo-name.git ```
+   git clone https://github.com/Aoudumber-Bade/3D-Cube-Image-Animation.git ```
 
 2. Open index.html in your browser.
 🎮 Usage  
