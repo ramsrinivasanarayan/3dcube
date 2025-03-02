@@ -31,7 +31,7 @@
 Edit these files to make it yours:  
 - **Change images**: Replace `/assets` images (keep dimensions square!).  
 - **Adjust animation speed**: Tweak `animation-duration` in `styles.css`.  
-- **Edit the message**: Modify the "I Love You" text in `index.html`.  
+- **Edit the message**: Modify the "I Love You gunni " text in `index.html`.  
 
 ---
 
